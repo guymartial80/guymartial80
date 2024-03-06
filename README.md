@@ -11,6 +11,7 @@ je m'intéresse à tout type de problématique, même si j'ai une préférence p
 * [ ] Les risques des souverains (Banque)
 * [ ] Churn des abonnées (TELECOM)
 * [ ] Prédiction maintenance industrielle (Industrie)
+* [ ] Risque de défaut (Banque)
 
 Vous pouvez également consulter ma page [LinkedIn](https://www.linkedin.com/in/guy-martial-atangana-ds-da)
 
