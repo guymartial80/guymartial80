@@ -2,18 +2,18 @@
   <img align="center" width="100%" src="https://img.freepik.com/photos-premium/analyse-donnees-entreprise-analyse-informations-clients-graphiques-abstrait-fond-bleu-vector-illustration-ai-generative_438099-11790.jpg"/>
 </p>
 
-# A propos de moi
+# A propos de moi 😃
 Il y a moins de trois ans, je me suis tourné vers le domaine de la **Data Science** après une riche expérience dans une entreprise agroalimentaire en qualité d'Informaticien. En attendant de connaitre une nouvelle expérience professionnelle toute aussi riche que la précédente dans la Data, je me consacre à des projets que je partage sur cette plateforme. Mon objectif est de démontrer mes compétences, de solliciter des retours constructifs sur ces projets et enfin, de susciter l'intérêt des recruteurs.
 
-# Projets initiaux
+# Projets initiaux 
 Je suis intéressé par une gamme variée de problématiques, bien que je sois particulièrement attiré par celles liées à la finance et à l'économie. Mon objectif initial est de publier rapidement des projets provenant des plateformes Kaggle et UCI Machine Learning, portant sur :
-* [x] L'attrition des employés (RH)
-* [ ] Les risques des souverains (Banque)
+* [x] L'attrition des employés (RH) 
+* [ ] Les déterminants de la croissance économique
 * [ ] Churn des abonnées (TELECOM)
 * [ ] Prédiction maintenance industrielle (Industrie)
 * [x] Risque de défaut (Banque)
 
-# Langages
+# Langages 👨‍💻
  
 ![Static Badge](https://img.shields.io/badge/Python-black%20?style=for-the-badge&logo=Python) 
  ![Static Badge](https://img.shields.io/badge/JavaScript-black%20?style=for-the-badge&logo=JavaScript) ![Static Badge](https://img.shields.io/badge/SQL-black%20?style=for-the-badge&logo=SQL) ![Static Badge](https://img.shields.io/badge/R-black%20?style=for-the-badge&logo=R)
