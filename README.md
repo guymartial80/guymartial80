@@ -11,7 +11,7 @@ Je suis intéressé par une gamme variée de problématiques, bien que je sois p
 * [ ] Les risques des souverains (Banque)
 * [ ] Churn des abonnées (TELECOM)
 * [ ] Prédiction maintenance industrielle (Industrie)
-* [ ] Risque de défaut (Banque)
+* [x] Risque de défaut (Banque)
 
 # Langages
  
