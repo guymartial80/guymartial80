@@ -3,7 +3,7 @@
 </p>
 
 # A propos de moi 😃
-Il y a moins de trois ans, je me suis tourné vers le domaine de la **Data Science** après une riche expérience dans une entreprise agroalimentaire en qualité d'Informaticien. En attendant de connaitre une nouvelle expérience professionnelle toute aussi riche que la précédente, je me consacre à des projets que je partage sur cette plateforme. Mon objectif est de démontrer mes compétences, de solliciter des retours constructifs sur ces projets et enfin, de susciter l'intérêt des recruteurs.
+Il y a trois ans environ, je me suis tourné vers le domaine de la **Data Science** après une riche expérience dans une entreprise agroalimentaire en qualité d'Informaticien. En attendant de connaitre une nouvelle expérience professionnelle toute aussi riche que la précédente, je me consacre à des projets que je partage sur cette plateforme. Mon objectif est de démontrer mes compétences, de solliciter des retours constructifs sur ces projets et enfin, de susciter l'intérêt des recruteurs.
 
 # Projets réalisés 
 Je suis intéressé par une gamme variée de problématiques, bien que je sois particulièrement attiré par celles liées à la finance et à l'économie. Mon objectif initial est de publier rapidement des projets provenant des plateformes Kaggle et UCI Machine Learning, portant sur :
