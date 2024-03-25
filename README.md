@@ -24,8 +24,7 @@ Je suis intéressé par une gamme variée de problématiques, bien que je sois p
 ![Static Badge](https://img.shields.io/badge/Django-black%20?logo=Django) ![Static Badge](https://img.shields.io/badge/Streamlit-black%20?logo=Streamlit) ![Static Badge](https://img.shields.io/badge/Flask-black%20?logo=Flask) ![Static Badge](https://img.shields.io/badge/BootStrap-black%20?logo=BootStrap) ![Static Badge](https://img.shields.io/badge/R%20Studio-black%20?logo=R%20Studio)
  ![Static Badge](https://img.shields.io/badge/Plotly-black%20?logo=Plotly) ![Static Badge](https://img.shields.io/badge/Power%20BI-black%20?logo=Power%20BI) ![Static Badge](https://img.shields.io/badge/Excel-black%20?logo=Excel) ![Static Badge](https://img.shields.io/badge/R%20Shiny-black%20?logo=R%20Shiny)
 
+![GHstats](https://github-readme-stats.vercel.app/api?username=guymartial80&show_icons=true)
 
 Vous pouvez également consulter ma page [LinkedIn](https://www.linkedin.com/in/gma-ds)
-
-
 
