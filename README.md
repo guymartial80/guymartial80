@@ -8,7 +8,7 @@ Il y a trois ans environ, je me suis tourné vers le domaine de la **Data Scienc
 # Projets réalisés 
 Je suis intéressé par une gamme variée de problématiques, bien que je sois particulièrement attiré par celles liées à la finance et à l'économie. Mon objectif initial est de publier rapidement des projets provenant des plateformes Kaggle et UCI Machine Learning, portant sur :
 * [x] L'attrition des employés (RH) 
-* [ ] Les déterminants de la croissance économique
+* [x] Les déterminants de la croissance économique
 * [ ] Churn des abonnées (TELECOM)
 * [ ] Prédiction maintenance industrielle (Industrie)
 * [x] Risque de défaut (Banque)
